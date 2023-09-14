@@ -14,6 +14,7 @@
 * [Exploratory data analysis](#Exploratory-data-analysis)
 * [Data Preprocessing](#Data-Preprocessing)
 * [Model Implementation](#Model-Implementation)
+* [Recommender](#recommender)
 
 
 
@@ -80,4 +81,12 @@ Top 10 publishers.
 
 I used kNN.
  
+## Recommender:
+
+i made different types of recommender such as Publisher, Authors, Language and Book Recommender.
+
+
+
+
+
 
