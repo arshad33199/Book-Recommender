@@ -53,7 +53,7 @@ Top 10 Authors with maximum book published.
 
 Checked how many languages books are available in the dataset.
 
-Created displot for average rating.
+Created distplot for average rating.
 
 ![download](https://github.com/arshad33199/Book-Recommender/assets/142779412/6cf99e85-b17a-4d6a-913e-1566e44929ce)
 
