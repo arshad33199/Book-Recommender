@@ -21,7 +21,6 @@
 ## Problem Statement:
 This is a Machine learning project.i am trying to build recommender for book.
 
-![b82e14cf-3c85-4f91-84c0-bea095c353a8](https://github.com/arshad33199/car-price-prediction/assets/142779412/6c969547-9f7a-45ce-9371-dcd1f72fad18)
 
 
 
@@ -30,7 +29,7 @@ This is a Machine learning project.i am trying to build recommender for book.
   * Numpy: For some math operations
   * Matplotlib: For data visualization.
   * Seaborn : For data visualization.
-  * ipywidgets: for intractive plots.
+  * ipywidgets: for interactive plots.
   
 ## Feature Selection:
 
