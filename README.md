@@ -20,7 +20,7 @@
 
 
 ## Problem Statement:
-This is a Machine learning project.i am trying to build recommender for book.
+This is a Machine learning project. i am trying to build recommender for book.
 
 
 
